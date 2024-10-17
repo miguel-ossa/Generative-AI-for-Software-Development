@@ -1,5 +1,5 @@
 {
-  "api_key": "sk-proj-XZwLmT9Kf3pRV6yS2qNbH8aEuFcGYxtrWQvszP71D_kMehb5ifdLnAObgC4c07EeHpsVJTfFN3U4ClckGJd6CsRPdqZmmmMynkFYIbxXZHe_eiUVmmIz0ZLzpW7D6SpnKeop2",
+  "api_key": "your-api-key",
   "url": "https://proxy.dlai.link/coursera_proxy/openai/images/generations",
   "headers": {
     "Content-Type": "application/json"
@@ -13,4 +13,3 @@
     "filename": "generated_image"
   },
   "
-
