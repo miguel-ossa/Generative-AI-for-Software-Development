@@ -1,0 +1,217 @@
+2024-10-21 12:00:16,700 - INFO - Executing clear_all_data with args: (), kwargs: {}
+2024-10-21 12:00:16,740 - INFO - Executing add_sample_data with args: (), kwargs: {}
+2024-10-21 12:00:16,741 - INFO - Executing add_user with args: ('Alice', 'alice@example.com'), kwargs: {}
+2024-10-21 12:00:16,747 - INFO - Executing add_user with args: ('Bob', 'bob@example.com'), kwargs: {}
+2024-10-21 12:00:16,751 - INFO - Executing add_user with args: ('Charlie', 'charlie@example.com'), kwargs: {}
+2024-10-21 12:00:16,756 - INFO - Executing add_user with args: ('David', 'david@example.com'), kwargs: {}
+2024-10-21 12:00:16,759 - INFO - Executing add_user with args: ('Eve', 'eve@example.com'), kwargs: {}
+2024-10-21 12:00:16,763 - INFO - Executing add_user with args: ('Frank', 'frank@example.com'), kwargs: {}
+2024-10-21 12:00:16,767 - INFO - Executing add_user with args: ('Grace', 'grace@example.com'), kwargs: {}
+2024-10-21 12:00:16,771 - INFO - Executing add_user with args: ('Heidi', 'heidi@example.com'), kwargs: {}
+2024-10-21 12:00:16,774 - INFO - Executing add_user with args: ('Ivan', 'ivan@example.com'), kwargs: {}
+2024-10-21 12:00:16,778 - INFO - Executing add_user with args: ('Judy', 'judy@example.com'), kwargs: {}
+2024-10-21 12:00:16,782 - INFO - Executing add_product with args: ('Laptop', 1000), kwargs: {}
+2024-10-21 12:00:16,787 - INFO - Executing add_product with args: ('Smartphone', 500), kwargs: {}
+2024-10-21 12:00:16,794 - INFO - Executing add_product with args: ('Tablet', 300), kwargs: {}
+2024-10-21 12:00:16,798 - INFO - Executing add_product with args: ('Monitor', 150), kwargs: {}
+2024-10-21 12:00:16,802 - INFO - Executing add_product with args: ('Keyboard', 50), kwargs: {}
+2024-10-21 12:00:16,805 - INFO - Executing add_product with args: ('Mouse', 25), kwargs: {}
+2024-10-21 12:00:16,809 - INFO - Executing add_product with args: ('Printer', 200), kwargs: {}
+2024-10-21 12:00:16,813 - INFO - Executing add_product with args: ('Router', 75), kwargs: {}
+2024-10-21 12:00:16,817 - INFO - Executing add_product with args: ('Webcam', 60), kwargs: {}
+2024-10-21 12:00:16,822 - INFO - Executing add_product with args: ('Headphones', 80), kwargs: {}
+2024-10-21 12:00:16,825 - INFO - Executing add_order with args: (1,), kwargs: {}
+2024-10-21 12:00:16,831 - INFO - Executing add_order with args: (2,), kwargs: {}
+2024-10-21 12:00:16,838 - INFO - Executing add_order with args: (3,), kwargs: {}
+2024-10-21 12:00:16,842 - INFO - Executing add_order with args: (4,), kwargs: {}
+2024-10-21 12:00:16,845 - INFO - Executing add_order with args: (5,), kwargs: {}
+2024-10-21 12:00:16,849 - INFO - Executing add_order with args: (6,), kwargs: {}
+2024-10-21 12:00:16,853 - INFO - Executing add_order with args: (7,), kwargs: {}
+2024-10-21 12:00:16,859 - INFO - Executing add_order with args: (8,), kwargs: {}
+2024-10-21 12:00:16,863 - INFO - Executing add_order with args: (9,), kwargs: {}
+2024-10-21 12:00:16,868 - INFO - Executing add_order with args: (10,), kwargs: {}
+2024-10-21 12:00:16,872 - INFO - Executing add_order_item with args: (1, 1, 2), kwargs: {}
+2024-10-21 12:00:16,878 - INFO - Executing add_order_item with args: (1, 2, 1), kwargs: {}
+2024-10-21 12:00:16,885 - INFO - Executing add_order_item with args: (2, 3, 1), kwargs: {}
+2024-10-21 12:00:16,893 - INFO - Executing add_order_item with args: (2, 4, 2), kwargs: {}
+2024-10-21 12:00:16,897 - INFO - Executing add_order_item with args: (3, 5, 3), kwargs: {}
+2024-10-21 12:00:16,901 - INFO - Executing add_order_item with args: (3, 6, 1), kwargs: {}
+2024-10-21 12:00:16,906 - INFO - Executing add_order_item with args: (4, 7, 2), kwargs: {}
+2024-10-21 12:00:16,910 - INFO - Executing add_order_item with args: (4, 8, 1), kwargs: {}
+2024-10-21 12:00:16,914 - INFO - Executing add_order_item with args: (5, 9, 1), kwargs: {}
+2024-10-21 12:00:16,918 - INFO - Executing add_order_item with args: (5, 10, 2), kwargs: {}
+2024-10-21 12:00:16,923 - INFO - Executing add_order_item with args: (6, 1, 1), kwargs: {}
+2024-10-21 12:00:16,931 - INFO - Executing add_order_item with args: (6, 2, 2), kwargs: {}
+2024-10-21 12:00:16,936 - INFO - Executing add_order_item with args: (7, 3, 1), kwargs: {}
+2024-10-21 12:00:16,941 - INFO - Executing add_order_item with args: (7, 4, 1), kwargs: {}
+2024-10-21 12:00:16,947 - INFO - Executing add_order_item with args: (8, 5, 2), kwargs: {}
+2024-10-21 12:00:16,954 - INFO - Executing add_order_item with args: (8, 6, 1), kwargs: {}
+2024-10-21 12:00:16,961 - INFO - Executing add_order_item with args: (9, 7, 3), kwargs: {}
+2024-10-21 12:00:16,966 - INFO - Executing add_order_item with args: (9, 8, 1), kwargs: {}
+2024-10-21 12:00:16,971 - INFO - Executing add_order_item with args: (10, 9, 1), kwargs: {}
+2024-10-21 12:00:16,977 - INFO - Executing add_order_item with args: (10, 10, 1), kwargs: {}
+2024-10-21 12:00:16,983 - INFO - Executing print_all_users with args: (), kwargs: {}
+2024-10-21 12:00:16,988 - INFO - Executing print_all_orders with args: (), kwargs: {}
+2024-10-21 12:00:17,029 - INFO - Executing print_all_products with args: (), kwargs: {}
+2024-10-21 12:00:17,031 - INFO - Executing get_user_orders with args: (1,), kwargs: {}
+2024-10-21 12:00:17,038 - INFO - Executing get_total_quantity_sold with args: (), kwargs: {}
+2024-10-21 12:01:10,114 - INFO - Executing clear_all_data with args: (), kwargs: {}
+2024-10-21 12:01:10,139 - INFO - Executing add_sample_data with args: (), kwargs: {}
+2024-10-21 12:01:10,139 - INFO - Executing add_user with args: ('Alice', 'alice@example.com'), kwargs: {}
+2024-10-21 12:01:10,145 - INFO - Executing add_user with args: ('Bob', 'bob@example.com'), kwargs: {}
+2024-10-21 12:01:10,149 - INFO - Executing add_user with args: ('Charlie', 'charlie@example.com'), kwargs: {}
+2024-10-21 12:01:10,156 - INFO - Executing add_user with args: ('David', 'david@example.com'), kwargs: {}
+2024-10-21 12:01:10,161 - INFO - Executing add_user with args: ('Eve', 'eve@example.com'), kwargs: {}
+2024-10-21 12:01:10,164 - INFO - Executing add_user with args: ('Frank', 'frank@example.com'), kwargs: {}
+2024-10-21 12:01:10,169 - INFO - Executing add_user with args: ('Grace', 'grace@example.com'), kwargs: {}
+2024-10-21 12:01:10,173 - INFO - Executing add_user with args: ('Heidi', 'heidi@example.com'), kwargs: {}
+2024-10-21 12:01:10,178 - INFO - Executing add_user with args: ('Ivan', 'ivan@example.com'), kwargs: {}
+2024-10-21 12:01:10,197 - INFO - Executing add_user with args: ('Judy', 'judy@example.com'), kwargs: {}
+2024-10-21 12:01:10,203 - INFO - Executing add_product with args: ('Laptop', 1000), kwargs: {}
+2024-10-21 12:01:10,209 - INFO - Executing add_product with args: ('Smartphone', 500), kwargs: {}
+2024-10-21 12:01:10,214 - INFO - Executing add_product with args: ('Tablet', 300), kwargs: {}
+2024-10-21 12:01:10,218 - INFO - Executing add_product with args: ('Monitor', 150), kwargs: {}
+2024-10-21 12:01:10,222 - INFO - Executing add_product with args: ('Keyboard', 50), kwargs: {}
+2024-10-21 12:01:10,226 - INFO - Executing add_product with args: ('Mouse', 25), kwargs: {}
+2024-10-21 12:01:10,230 - INFO - Executing add_product with args: ('Printer', 200), kwargs: {}
+2024-10-21 12:01:10,234 - INFO - Executing add_product with args: ('Router', 75), kwargs: {}
+2024-10-21 12:01:10,239 - INFO - Executing add_product with args: ('Webcam', 60), kwargs: {}
+2024-10-21 12:01:10,243 - INFO - Executing add_product with args: ('Headphones', 80), kwargs: {}
+2024-10-21 12:01:10,247 - INFO - Executing add_order with args: (1,), kwargs: {}
+2024-10-21 12:01:10,252 - INFO - Executing add_order with args: (2,), kwargs: {}
+2024-10-21 12:01:10,305 - INFO - Executing add_order with args: (3,), kwargs: {}
+2024-10-21 12:01:10,366 - INFO - Executing add_order with args: (4,), kwargs: {}
+2024-10-21 12:01:10,419 - INFO - Executing add_order with args: (5,), kwargs: {}
+2024-10-21 12:01:10,471 - INFO - Executing add_order with args: (6,), kwargs: {}
+2024-10-21 12:01:10,521 - INFO - Executing add_order with args: (7,), kwargs: {}
+2024-10-21 12:01:10,566 - INFO - Executing add_order with args: (8,), kwargs: {}
+2024-10-21 12:01:10,622 - INFO - Executing add_order with args: (9,), kwargs: {}
+2024-10-21 12:01:10,681 - INFO - Executing add_order with args: (10,), kwargs: {}
+2024-10-21 12:01:10,738 - INFO - Executing add_order_item with args: (1, 1, 2), kwargs: {}
+2024-10-21 12:01:10,804 - INFO - Executing add_order_item with args: (1, 2, 1), kwargs: {}
+2024-10-21 12:01:10,869 - INFO - Executing add_order_item with args: (2, 3, 1), kwargs: {}
+2024-10-21 12:01:10,915 - INFO - Executing add_order_item with args: (2, 4, 2), kwargs: {}
+2024-10-21 12:01:10,964 - INFO - Executing add_order_item with args: (3, 5, 3), kwargs: {}
+2024-10-21 12:01:11,007 - INFO - Executing add_order_item with args: (3, 6, 1), kwargs: {}
+2024-10-21 12:01:11,047 - INFO - Executing add_order_item with args: (4, 7, 2), kwargs: {}
+2024-10-21 12:01:11,091 - INFO - Executing add_order_item with args: (4, 8, 1), kwargs: {}
+2024-10-21 12:01:11,141 - INFO - Executing add_order_item with args: (5, 9, 1), kwargs: {}
+2024-10-21 12:01:11,187 - INFO - Executing add_order_item with args: (5, 10, 2), kwargs: {}
+2024-10-21 12:01:11,232 - INFO - Executing add_order_item with args: (6, 1, 1), kwargs: {}
+2024-10-21 12:01:11,275 - INFO - Executing add_order_item with args: (6, 2, 2), kwargs: {}
+2024-10-21 12:01:11,298 - INFO - Executing add_order_item with args: (7, 3, 1), kwargs: {}
+2024-10-21 12:01:11,325 - INFO - Executing add_order_item with args: (7, 4, 1), kwargs: {}
+2024-10-21 12:01:11,329 - INFO - Executing add_order_item with args: (8, 5, 2), kwargs: {}
+2024-10-21 12:01:11,333 - INFO - Executing add_order_item with args: (8, 6, 1), kwargs: {}
+2024-10-21 12:01:11,337 - INFO - Executing add_order_item with args: (9, 7, 3), kwargs: {}
+2024-10-21 12:01:11,341 - INFO - Executing add_order_item with args: (9, 8, 1), kwargs: {}
+2024-10-21 12:01:11,345 - INFO - Executing add_order_item with args: (10, 9, 1), kwargs: {}
+2024-10-21 12:01:11,349 - INFO - Executing add_order_item with args: (10, 10, 1), kwargs: {}
+2024-10-21 12:01:11,353 - INFO - Executing print_all_users with args: (), kwargs: {}
+2024-10-21 12:01:11,355 - INFO - Executing print_all_orders with args: (), kwargs: {}
+2024-10-21 12:01:11,368 - INFO - Executing print_all_products with args: (), kwargs: {}
+2024-10-21 12:01:11,369 - INFO - Executing get_user_orders with args: (1,), kwargs: {}
+2024-10-21 12:01:11,371 - INFO - Executing get_total_quantity_sold with args: (), kwargs: {}
+2024-10-21 12:01:11,373 - INFO - Executing get_user with args: (1,), kwargs: {}
+2024-10-21 12:01:11,374 - INFO - EXPLAIN result for query: SELECT users.id, users.name, users.email 
+FROM users 
+WHERE users.id = 1
+(0, 'Init', 0, 9, 0, None, 0, None)
+(1, 'OpenRead', 0, 2, 0, '3', 0, None)
+(2, 'Integer', 1, 1, 0, None, 0, None)
+(3, 'SeekRowid', 0, 8, 1, None, 0, None)
+(4, 'Rowid', 0, 2, 0, None, 0, None)
+(5, 'Column', 0, 1, 3, None, 0, None)
+(6, 'Column', 0, 2, 4, None, 0, None)
+(7, 'ResultRow', 2, 3, 0, None, 0, None)
+(8, 'Halt', 0, 0, 0, None, 0, None)
+(9, 'Transaction', 0, 0, 4, '0', 1, None)
+(10, 'Goto', 0, 1, 0, None, 0, None)
+2024-10-21 12:01:47,259 - INFO - Executing clear_all_data with args: (), kwargs: {}
+2024-10-21 12:01:47,291 - INFO - Executing add_sample_data with args: (), kwargs: {}
+2024-10-21 12:01:47,292 - INFO - Executing add_user with args: ('Alice', 'alice@example.com'), kwargs: {}
+2024-10-21 12:01:47,299 - INFO - Executing add_user with args: ('Bob', 'bob@example.com'), kwargs: {}
+2024-10-21 12:01:47,303 - INFO - Executing add_user with args: ('Charlie', 'charlie@example.com'), kwargs: {}
+2024-10-21 12:01:47,308 - INFO - Executing add_user with args: ('David', 'david@example.com'), kwargs: {}
+2024-10-21 12:01:47,312 - INFO - Executing add_user with args: ('Eve', 'eve@example.com'), kwargs: {}
+2024-10-21 12:01:47,316 - INFO - Executing add_user with args: ('Frank', 'frank@example.com'), kwargs: {}
+2024-10-21 12:01:47,319 - INFO - Executing add_user with args: ('Grace', 'grace@example.com'), kwargs: {}
+2024-10-21 12:01:47,322 - INFO - Executing add_user with args: ('Heidi', 'heidi@example.com'), kwargs: {}
+2024-10-21 12:01:47,325 - INFO - Executing add_user with args: ('Ivan', 'ivan@example.com'), kwargs: {}
+2024-10-21 12:01:47,328 - INFO - Executing add_user with args: ('Judy', 'judy@example.com'), kwargs: {}
+2024-10-21 12:01:47,332 - INFO - Executing add_product with args: ('Laptop', 1000), kwargs: {}
+2024-10-21 12:01:47,335 - INFO - Executing add_product with args: ('Smartphone', 500), kwargs: {}
+2024-10-21 12:01:47,339 - INFO - Executing add_product with args: ('Tablet', 300), kwargs: {}
+2024-10-21 12:01:47,343 - INFO - Executing add_product with args: ('Monitor', 150), kwargs: {}
+2024-10-21 12:01:47,346 - INFO - Executing add_product with args: ('Keyboard', 50), kwargs: {}
+2024-10-21 12:01:47,349 - INFO - Executing add_product with args: ('Mouse', 25), kwargs: {}
+2024-10-21 12:01:47,352 - INFO - Executing add_product with args: ('Printer', 200), kwargs: {}
+2024-10-21 12:01:47,356 - INFO - Executing add_product with args: ('Router', 75), kwargs: {}
+2024-10-21 12:01:47,359 - INFO - Executing add_product with args: ('Webcam', 60), kwargs: {}
+2024-10-21 12:01:47,362 - INFO - Executing add_product with args: ('Headphones', 80), kwargs: {}
+2024-10-21 12:01:47,367 - INFO - Executing add_order with args: (1,), kwargs: {}
+2024-10-21 12:01:47,370 - INFO - Executing add_order with args: (2,), kwargs: {}
+2024-10-21 12:01:47,374 - INFO - Executing add_order with args: (3,), kwargs: {}
+2024-10-21 12:01:47,377 - INFO - Executing add_order with args: (4,), kwargs: {}
+2024-10-21 12:01:47,380 - INFO - Executing add_order with args: (5,), kwargs: {}
+2024-10-21 12:01:47,383 - INFO - Executing add_order with args: (6,), kwargs: {}
+2024-10-21 12:01:47,386 - INFO - Executing add_order with args: (7,), kwargs: {}
+2024-10-21 12:01:47,389 - INFO - Executing add_order with args: (8,), kwargs: {}
+2024-10-21 12:01:47,392 - INFO - Executing add_order with args: (9,), kwargs: {}
+2024-10-21 12:01:47,395 - INFO - Executing add_order with args: (10,), kwargs: {}
+2024-10-21 12:01:47,398 - INFO - Executing add_order_item with args: (1, 1, 2), kwargs: {}
+2024-10-21 12:01:47,402 - INFO - Executing add_order_item with args: (1, 2, 1), kwargs: {}
+2024-10-21 12:01:47,405 - INFO - Executing add_order_item with args: (2, 3, 1), kwargs: {}
+2024-10-21 12:01:47,408 - INFO - Executing add_order_item with args: (2, 4, 2), kwargs: {}
+2024-10-21 12:01:47,411 - INFO - Executing add_order_item with args: (3, 5, 3), kwargs: {}
+2024-10-21 12:01:47,417 - INFO - Executing add_order_item with args: (3, 6, 1), kwargs: {}
+2024-10-21 12:01:47,421 - INFO - Executing add_order_item with args: (4, 7, 2), kwargs: {}
+2024-10-21 12:01:47,424 - INFO - Executing add_order_item with args: (4, 8, 1), kwargs: {}
+2024-10-21 12:01:47,427 - INFO - Executing add_order_item with args: (5, 9, 1), kwargs: {}
+2024-10-21 12:01:47,430 - INFO - Executing add_order_item with args: (5, 10, 2), kwargs: {}
+2024-10-21 12:01:47,433 - INFO - Executing add_order_item with args: (6, 1, 1), kwargs: {}
+2024-10-21 12:01:47,436 - INFO - Executing add_order_item with args: (6, 2, 2), kwargs: {}
+2024-10-21 12:01:47,439 - INFO - Executing add_order_item with args: (7, 3, 1), kwargs: {}
+2024-10-21 12:01:47,442 - INFO - Executing add_order_item with args: (7, 4, 1), kwargs: {}
+2024-10-21 12:01:47,446 - INFO - Executing add_order_item with args: (8, 5, 2), kwargs: {}
+2024-10-21 12:01:47,449 - INFO - Executing add_order_item with args: (8, 6, 1), kwargs: {}
+2024-10-21 12:01:47,452 - INFO - Executing add_order_item with args: (9, 7, 3), kwargs: {}
+2024-10-21 12:01:47,455 - INFO - Executing add_order_item with args: (9, 8, 1), kwargs: {}
+2024-10-21 12:01:47,459 - INFO - Executing add_order_item with args: (10, 9, 1), kwargs: {}
+2024-10-21 12:01:47,462 - INFO - Executing add_order_item with args: (10, 10, 1), kwargs: {}
+2024-10-21 12:01:47,465 - INFO - Executing print_all_users with args: (), kwargs: {}
+2024-10-21 12:01:47,467 - INFO - Executing print_all_orders with args: (), kwargs: {}
+2024-10-21 12:01:47,482 - INFO - Executing print_all_products with args: (), kwargs: {}
+2024-10-21 12:01:47,483 - INFO - Executing get_user_orders with args: (1,), kwargs: {}
+2024-10-21 12:01:47,485 - INFO - Executing get_total_quantity_sold with args: (), kwargs: {}
+2024-10-21 12:01:47,487 - INFO - Executing get_user with args: (1,), kwargs: {}
+2024-10-21 12:01:47,488 - INFO - EXPLAIN result for query: SELECT users.id, users.name, users.email 
+FROM users 
+WHERE users.id = 1
+(0, 'Init', 0, 9, 0, None, 0, None)
+(1, 'OpenRead', 0, 2, 0, '3', 0, None)
+(2, 'Integer', 1, 1, 0, None, 0, None)
+(3, 'SeekRowid', 0, 8, 1, None, 0, None)
+(4, 'Rowid', 0, 2, 0, None, 0, None)
+(5, 'Column', 0, 1, 3, None, 0, None)
+(6, 'Column', 0, 2, 4, None, 0, None)
+(7, 'ResultRow', 2, 3, 0, None, 0, None)
+(8, 'Halt', 0, 0, 0, None, 0, None)
+(9, 'Transaction', 0, 0, 4, '0', 1, None)
+(10, 'Goto', 0, 1, 0, None, 0, None)
+2024-10-21 12:01:47,489 - INFO - Executing get_order_item with args: (1,), kwargs: {}
+2024-10-21 12:01:47,490 - INFO - EXPLAIN result for query: SELECT order_items.id, order_items.order_id, order_items.product_id, order_items.quantity 
+FROM order_items 
+WHERE order_items.id = 1
+(0, 'Init', 0, 10, 0, None, 0, None)
+(1, 'OpenRead', 0, 6, 0, '4', 0, None)
+(2, 'Integer', 1, 1, 0, None, 0, None)
+(3, 'SeekRowid', 0, 9, 1, None, 0, None)
+(4, 'Rowid', 0, 2, 0, None, 0, None)
+(5, 'Column', 0, 1, 3, None, 0, None)
+(6, 'Column', 0, 2, 4, None, 0, None)
+(7, 'Column', 0, 3, 5, None, 0, None)
+(8, 'ResultRow', 2, 4, 0, None, 0, None)
+(9, 'Halt', 0, 0, 0, None, 0, None)
+(10, 'Transaction', 0, 0, 4, '0', 1, None)
+(11, 'Goto', 0, 1, 0, None, 0, None)
